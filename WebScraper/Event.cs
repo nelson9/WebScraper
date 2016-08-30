@@ -11,7 +11,7 @@ namespace WebScraper
         public string Artist { get; set; }
         public string City { get; set; }
         public string VenueName { get; set; }
-        public DateTime Date { get; set; }
-        public Decimal Price { get; set; }
+        public string Date { get; set; }
+        public string Price { get; set; }
     }
 }
