@@ -7,3 +7,12 @@
 \\ukohome02.mcr.local\home\nferguson\my documents\visual studio 2015\Projects\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.dll
 \\ukohome02.mcr.local\home\nferguson\my documents\visual studio 2015\Projects\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.pdb
 \\ukohome02.mcr.local\home\nferguson\my documents\visual studio 2015\Projects\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\bin\Debug\WebScraper.exe.config
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\obj\Debug\WebScraper.exe
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Niall\Documents\GitHub\WebScraper\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
